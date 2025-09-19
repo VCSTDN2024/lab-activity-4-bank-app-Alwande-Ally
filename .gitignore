@@ -1,0 +1,31 @@
+# NetBeans / Java
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+build/classes/
+
+# Compiled class files
+*.class
+
+# Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+out/
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OneDrive shortcuts (optional)
+*.lnk
